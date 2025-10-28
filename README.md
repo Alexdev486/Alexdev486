@@ -4,7 +4,9 @@
 Soy un desarrollador web con experiencia en backend y frontend, apasionado por crear soluciones eficientes y escalables.
 Actualmente estoy ampliando mis conocimientos en Inteligencia Artificial y Big Data, aplicándolos en proyectos reales.
 
+
 🧠 Tecnologías y herramientas que uso
+
 🌐 Desarrollo Web
 
 Frontend: React, Next.js, TypeScript, JavaScript
@@ -15,16 +17,20 @@ Bases de datos: PostgreSQL, MySQL
 
 Infraestructura: Docker, Directus
 
+
 🤖 IA y Big Data
 
 Lenguajes: Python, MATLAB
 
 Áreas de interés: Machine Learning, Deep Learnig, Data Analytics, Procesamiento de Datos a Gran Escala
 
+
 🧩 Proyectos destacados
 
-🔹 Aplicaciones web integradas con bases de datos 
+🔹 Aplicaciones web integradas con bases de datos
+
 🔹 APIs escalables con NestJS y PostgreSQL
+
 
 🌱 Actualmente
 
@@ -34,9 +40,5 @@ Contribuyendo a proyectos relacionados con el desarrollo de Inteligencia Artific
 
 Explorando integraciones entre web apps e IA
 
-📫 Cómo contactarme
 
-💼 LinkedIn
- 
 
-✉️ Email
