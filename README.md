@@ -9,13 +9,13 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Web%20Developer;AI%20%26%20Big%20Data%20Student;Always%20learning%20new%20things;Open%20to%20collaborate!&font=Fira%20Code&center=true&width=520&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Web%20Developer;AI%20%26%20Big%20Data;Always%20learning%20new%20things;Open%20to%20collaborate!&font=Fira%20Code&center=true&width=520&height=45">
   </a>
 </p>
 
 ---
 
-### 💻 Sobre mí
+### Sobre mí
 
 🚀 **Desarrollador Web** con experiencia en **frontend y backend**, enfocado en crear soluciones **escalables, eficientes y mantenibles**.  
 🧠 Actualmente estudio **Inteligencia Artificial y Big Data**, aplicando estos conocimientos en proyectos reales.  
