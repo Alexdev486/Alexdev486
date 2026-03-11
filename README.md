@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Web%20Developer;AI%20%26%20Big%20Data;Always%20learning%20new%20things;Open%20to%20collaborate!&font=Fira%20Code&center=true&width=520&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Developer;Web%20Developer;AI%20%26%20Big%20Data;Always%20learning%20new%20things;Open%20to%20collaborate!&font=Fira%20Code&center=true&width=520&height=45">
   </a>
 </p>
 
