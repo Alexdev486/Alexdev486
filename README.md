@@ -18,7 +18,7 @@
 ### Sobre mí
 
 🚀 **Desarrollador Web** con experiencia en **frontend y backend**, enfocado en crear soluciones **escalables, eficientes y mantenibles**.  
-🧠 Actualmente estudio **Inteligencia Artificial y Big Data**, aplicando estos conocimientos en proyectos reales.  
+🧠 Experto en **Inteligencia Artificial y Big Data**, aplicando estos conocimientos en proyectos reales.  
 🌱 Interesado en la intersección entre **desarrollo web, datos e IA**.
 
 ---
@@ -77,9 +77,8 @@
 
 ---
 
-## 🌱 Actualmente
-📚 Estudiando **Inteligencia Artificial y Big Data**  
-🤝 Colaborando en proyectos de desarrollo e IA  
+## 🌱 Actualmente 
+🤝 Colaborando en proyectos de desarrollo con IA  
 🚀 Explorando soluciones que combinan **datos, backend y machine learning**
 
 ---
